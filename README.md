@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Python Network Sniffer
+# Python Network Sniffer
 
 A simple packet sniffer written in Python using **Scapy**.  
 This tool captures live network traffic and displays useful information such as Ethernet addresses, IP headers, and TCP/UDP/ICMP details.  
